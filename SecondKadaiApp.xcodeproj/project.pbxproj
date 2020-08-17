@@ -15,6 +15,7 @@
 		E97F407424E762B600A26E72 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E97F407224E762B600A26E72 /* LaunchScreen.storyboard */; };
 		E97F407F24E762B600A26E72 /* SecondKadaiAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E97F407E24E762B600A26E72 /* SecondKadaiAppTests.swift */; };
 		E97F408A24E762B600A26E72 /* SecondKadaiAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E97F408924E762B600A26E72 /* SecondKadaiAppUITests.swift */; };
+		E97F409824E76B6C00A26E72 /* nameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E97F409724E76B6C00A26E72 /* nameViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E97F408524E762B600A26E72 /* SecondKadaiAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SecondKadaiAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E97F408924E762B600A26E72 /* SecondKadaiAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondKadaiAppUITests.swift; sourceTree = "<group>"; };
 		E97F408B24E762B600A26E72 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E97F409724E76B6C00A26E72 /* nameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nameViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				E97F406724E762B600A26E72 /* AppDelegate.swift */,
 				E97F406924E762B600A26E72 /* SceneDelegate.swift */,
 				E97F406B24E762B600A26E72 /* ViewController.swift */,
+				E97F409724E76B6C00A26E72 /* nameViewController.swift */,
 				E97F406D24E762B600A26E72 /* Main.storyboard */,
 				E97F407024E762B600A26E72 /* Assets.xcassets */,
 				E97F407224E762B600A26E72 /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 				E97F406C24E762B600A26E72 /* ViewController.swift in Sources */,
 				E97F406824E762B600A26E72 /* AppDelegate.swift in Sources */,
 				E97F406A24E762B600A26E72 /* SceneDelegate.swift in Sources */,
+				E97F409824E76B6C00A26E72 /* nameViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
